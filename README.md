@@ -6,7 +6,9 @@ This repository documents my journey of understanding `for` loops, nested loops,
 
 ---
 
+
 ## 📌 Description
+
 
 This repository contains multiple C++ programs that generate different types of patterns using loops.
 
@@ -56,6 +58,7 @@ As I continue learning C++, I will keep adding more pattern programs to this rep
 ## 📂 Repository Structure
 
 ```text
+
 cpp-pattern-generator/
 │
 ├── StarPattern.cpp
@@ -64,6 +67,7 @@ cpp-pattern-generator/
 ├── AlphabetPattern.cpp
 ├── README.md
 ```
+
 
 More pattern files will be added as I continue practicing.
 
